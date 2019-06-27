@@ -12,7 +12,7 @@ tragedy: $650.00 (55 seats)
 comedy: $580.00 (35 seats)
 tragedy: $500.00 (40 seats)
 Amount owed is $1,730.00
-You earned 47 credits`));
+You earned 40 credits`));
     })
 
   })
